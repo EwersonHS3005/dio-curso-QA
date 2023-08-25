@@ -1,0 +1,2 @@
+Link Download (GIT):https://git-scm.com/downloads
+Obs.: Atente-se em escolher seu S.O e instale-o após o download.
